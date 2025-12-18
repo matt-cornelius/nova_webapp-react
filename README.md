@@ -119,7 +119,6 @@ VITE_N8N_WEBHOOK_PATH=/webhook-test/your-webhook-id
 - [ ] Push notifications
 - [ ] Dark mode support
 
-## License
+## Demonstration Video
 
-Same as the original Flutter project.
-
+This is found within this repository.
